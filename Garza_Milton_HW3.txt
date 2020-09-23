@@ -1,3 +1,0 @@
-GitHub URL: https://github.com/miltonrgarza/hw-bdd-cucumber.git
-
-GitHub path to log file: https://github.com/miltonrgarza/hw-bdd-cucumber/blob/master/rottenpotatoes/Garza_Milton_HW3.txt
