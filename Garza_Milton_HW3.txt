@@ -1,0 +1,5 @@
+GitHub URL: https://github.com/miltonrgarza/hw-bdd-cucumber.git
+
+
+Path to log file: hw-bdd-cucumber -> rottenpotatoes -> log_file.txt
+GitHub URL of log file: https://github.com/miltonrgarza/hw-bdd-cucumber/blob/master/rottenpotatoes/log_file.txt
